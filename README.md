@@ -70,7 +70,6 @@ ___
 *	[Level Up Tuts - HTML5](http://www.youtube.com/playlist?list=PLLnpHn493BHGlqEn4EE7dRUnPn4o_tKM0)
 *	[The New Boston - HTML5](http://thenewboston.org/list.php?cat=43)
 *	[The New Boston - HTML and CSS](http://www.youtube.com/playlist?list=PLC1322B5A0180C946)
-
 *	[**Learning HTML and CSS (Subscription - $$$)**](http://teamtreehouse.com/learning-adventures/learn-html-and-css)
 	
 **Sites to Keep an Eye On:**	
